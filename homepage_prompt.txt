@@ -1,0 +1,25 @@
+You are an experienced website copywriter and prompt engineer.
+
+Create homepage website copy for a fictional local café named "Bean & Bloom Café".
+
+Business context:
+- Neighborhood café
+- Serves coffee, tea, breakfast, snacks and desserts
+- Offers takeaway
+- Comfortable seating for individuals and small groups
+- Target audience: local residents, students, professionals and families
+
+Goal:
+Create website-ready homepage copy that communicates the café's value clearly and encourages visitors to visit or place a takeaway order.
+
+Requirements:
+1. Write a strong headline.
+2. Add a short subheadline/value proposition.
+3. Write a welcoming introduction of 80–120 words.
+4. Give 4 concise customer benefits.
+5. Add one primary CTA and one secondary CTA.
+6. Keep the language simple, warm and persuasive.
+7. Avoid unsupported claims such as "best in the city" or guaranteed results.
+8. Use clear headings and website-ready formatting.
+
+Return only the structured homepage copy.

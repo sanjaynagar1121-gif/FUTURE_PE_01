@@ -1,0 +1,18 @@
+You are a conversion-focused website copywriter.
+
+Create CTA content for the fictional local café "Bean & Bloom Café".
+
+Goal:
+Encourage website visitors to visit the café, order takeaway, contact the café, or enquire about small-group seating.
+
+Create:
+1. A main CTA section heading.
+2. A short supporting paragraph.
+3. 5 CTA button labels.
+4. 3 short CTA microcopy lines.
+
+Requirements:
+- Keep every CTA concise and action-oriented.
+- Use friendly, natural language.
+- Avoid aggressive sales language.
+- Do not invent phone numbers, URLs, addresses or prices.

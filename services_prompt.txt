@@ -1,0 +1,27 @@
+You are an experienced website copywriter.
+
+Create the Services / Offerings section for a fictional local café named "Bean & Bloom Café".
+
+Business context:
+- Coffee and tea
+- Breakfast
+- Snacks
+- Desserts
+- Takeaway
+- Small-group seating
+
+Target audience:
+Local residents, students, professionals and families.
+
+Requirements:
+1. Create a short introductory paragraph.
+2. Write 6 service/offerings cards.
+3. For each card provide:
+   - Offering name
+   - 2–3 sentence customer-friendly description
+   - One short benefit
+4. Keep the tone friendly, clear and local.
+5. Make the copy suitable for direct placement on a website.
+6. Do not invent specific prices, awards, locations or claims that were not provided.
+
+Return the content with clear headings.
